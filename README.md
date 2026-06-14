@@ -1,3 +1,75 @@
 ## Hi there 👋
 ![banner](banner.png)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200§ion=header&text=Hi%20there!%20I'm%20Chandra%20Sekhar&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Graduate%20|%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=16) ## Hi there 👋, Welcome! Hello! 👋 My name is **R.Chandra Sekhar Reddy**. I am a B.Tech Graduate specializing in Artificial Intelligence & Machine Learning. 🎓 Passionate about building intelligent web applications by combining AI/ML models with modern web technologies. **Skills:** Machine Learning | Deep Learning | Web Development | Data Science **Tools:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) - 🔭 Currently working on **UPI Smart Fraud Detection** - 🌱 Currently learning **Deep Learning & MLOps** - 📫 How to reach me: chandrasekharreddy0206 - 💡 Passionate about: Building AI-powered real-world applications - ⚡ Fun fact: I love solving real problems using Machine Learning! --- ### 📊 GitHub Stats [![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrasekharreddy0206-RC&show_icons=true&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharreddy0206-RC&layout=compact&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC) [![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekharreddy0206-RC&theme=tokyonight)](https://git.io/streak-stats) --- ### 🔗 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chandrasekharreddy0206-RC) ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100§ion=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=28&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Hi%20there!%20I%27m%20R.%20Chandra%20Sekhar%20Reddy&descAlignY=56&descSize=16&descColor=8b949e)
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I am **R. Chandra Sekhar Reddy**, a B.Tech Graduate specializing in **Artificial Intelligence & Machine Learning**. I am passionate about building intelligent web applications by combining AI/ML models with modern web technologies to solve real-world problems.
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Languages & Frameworks:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools & Platforms:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 Currently working on **UPI Smart Fraud Detection for Digital Payments**
+- 🌱 Currently learning **Deep Learning, MLOps & Cloud Deployment**
+- 💡 Passionate about **building AI-powered real-world applications**
+- 📫 How to reach me: **chandrasekharreddy0206@gmail.com**
+- ⚡ Fun fact: I love turning raw data into intelligent solutions!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandrasekharreddy0206-RC&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharreddy0206-RC&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chandrasekharreddy0206-RC&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chandrasekharreddy0206@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chandrasekharreddy0206-RC">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer)
+
