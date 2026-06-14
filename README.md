@@ -1,5 +1,4 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0077b6,100:023e8a&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 ![banner](banner.png)
 
 ---
@@ -85,5 +84,3 @@ Hello! I am **R. Chandra Sekhar Reddy**, a B.Tech Graduate specializing in **Art
 </p>
 
 ---
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,50:00b4d8,100:0077b6&height=120&section=footer)
-
