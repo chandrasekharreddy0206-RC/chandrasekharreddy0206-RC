@@ -1,4 +1,5 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200§ion=header&text=Hi%20there!%20I'm%20Chandra%20Sekhar&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Graduate%20|%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=16)
 
 <!--
 **chandrasekharreddy0206-RC/chandrasekharreddy0206-RC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
