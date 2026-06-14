@@ -10,3 +10,5 @@
 [![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrasekharreddy0206-RC&show_icons=true&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharreddy0206-RC&layout=compact&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekharreddy0206-RC&theme=tokyonight)](https://git.io/streak-stats)
