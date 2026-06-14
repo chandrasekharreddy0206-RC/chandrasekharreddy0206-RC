@@ -52,6 +52,29 @@ Hello! I am **R. Chandra Sekhar Reddy**, a B.Tech Graduate specializing in **Art
   <img src="https://streak-stats.demolab.com?user=chandrasekharreddy0206-RC&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+
+---
+
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chandrasekharreddy0206-RC/chandrasekharreddy0206-RC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chandrasekharreddy0206-RC/chandrasekharreddy0206-RC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/chandrasekharreddy0206-RC/chandrasekharreddy0206-RC/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🔗 Connect With Me
