@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:90e0ef&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0077b6,50:00b4d8,100:90e0ef&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 ![banner](banner.png)
 
 ---
