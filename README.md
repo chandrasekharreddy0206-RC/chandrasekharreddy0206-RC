@@ -67,14 +67,6 @@ Hello! I am **R. Chandra Sekhar Reddy**, a B.Tech Graduate specializing in **Art
 </picture>
 
 
-
-
-
-
-
-
-
-
 ---
 
 ## 🔗 Connect With Me
@@ -93,5 +85,5 @@ Hello! I am **R. Chandra Sekhar Reddy**, a B.Tech Graduate specializing in **Art
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:dbeafe&height=100&section=footer)
 
