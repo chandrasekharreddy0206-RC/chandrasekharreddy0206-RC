@@ -8,3 +8,5 @@
 - 🔭 Currently working on UPI Fraud Detection - 🌱 Currently learning Deep Learning & MLOps - 📫 How to reach me: chandrasekharreddy0206 - ⚡ Fun fact: I love combining AI with real-world apps!
 
 [![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrasekharreddy0206-RC&show_icons=true&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharreddy0206-RC&layout=compact&theme=tokyonight)](https://github.com/chandrasekharreddy0206-RC)
