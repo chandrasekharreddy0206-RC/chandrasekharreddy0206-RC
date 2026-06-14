@@ -1,6 +1,5 @@
 ## Hi there 👋
 ![banner](banner.png)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=28&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Hi%20there!%20I%27m%20R.%20Chandra%20Sekhar%20Reddy&descAlignY=56&descSize=16&descColor=8b949e)
 
 ---
 
